@@ -1,0 +1,6 @@
+name = Nutrition Information Field
+description = Defines a nutrition information field type based on the Microdata spec at http://schema.org/NutritionInformation
+core = 7.x
+package = Fields
+files[] = nutritioninfo.install
+files[] = nutritioninfo.module
